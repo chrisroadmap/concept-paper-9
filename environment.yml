@@ -1,0 +1,9 @@
+name: concept-paper-9
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
